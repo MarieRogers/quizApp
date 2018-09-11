@@ -1,36 +1,25 @@
-# portfolio
+# quiz
 
-This repository contains the code for a variety of projects completed for a course in Web Development.
+> A Vue.js project
 
-https://duke-compsci290-spring2018.github.io/assignments-portfolio-MarieRogers/
+Marie Rogers
+4/1/2018
 
-Each project exists in a separate folder in the repository.
+This quiz project built with Vue.js allows users to work through small quizzes, calculating score and movement through the quiz. 
 
-## introduction 
-a simple webpage created using HTML and CSS, used to submit assignments
+I had no significant conversations about the project, and I referenced Duvall's examples, the Vue documentation, W3 schools, and stack overflow.
 
-## csszen 
-using CSS, two very different webpages were designed using the same HTML
+## Build Setup
 
-## responsive
-bootstrap was used with HTML and CSS to design a webpage that was responsive to different screen sizes and orientations
+``` bash
+# install dependencies
+npm install
 
-## game
-the classic game Breakout! was designed using JavaScript
+# serve with hot reload at localhost:8080
+npm run dev
 
-## gallery
-a photo gallery created with JQuery, HTML, and CSS is interactive, allowing users to sort images based on traits
+# build for production with minification
+npm run build
+```
 
-## trello
-a clone of the popular Trello web application, this app uses Vue.js to create a place for collecting lists and resources
-
-## quiz
-built with Vue.js components, this quiz app allows a user to take miny quizzes, calculating score and movement through quiz
-
-## explore
-a weather app built with React.js integrates the OpenWeather API and Google Maps API to plot weather and map points
-
-## final
-a bucketlist app built with Vue.js and integrating the Google Places API, allows users to create a customized bucketlist and to take suggestions on food, museums, parks, and other points of interest from other users and the Google API
-
-
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
