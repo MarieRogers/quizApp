@@ -1,0 +1,344 @@
+[
+    {
+    "name":"MATH",
+    "score": 0,
+    "show": false,
+    "font": "red",
+    "color": "#f7cac9",
+    "questions":[
+        {
+            "question": "What is 2*5?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 2
+                },
+                {
+                    "value": 5
+                },
+                {
+                    "value": 10
+                },
+                {
+                    "value": 15
+                },
+                {
+                    "value": 20
+                }],
+            "correctAnswer": 10
+        },
+        {
+            "question": "What is 3*6?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 3
+                },
+                {
+                    "value": 6
+                },
+                {
+                    "value": 9
+                },
+                {
+                    "value": 12
+                },
+                {
+                    "value": 18
+                }],
+            "correctAnswer": 18
+        },
+        {
+            "question": "What is 8*9?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 72
+                },
+                {
+                    "value": 99
+                },
+                {
+                    "value": 108
+                },
+                {
+                    "value": 134
+                },
+                {
+                    "value": 156
+                }],
+            "correctAnswer": 72
+        },
+        {
+            "question": "What is 1*7?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 4
+                },
+                {
+                    "value": 5
+                },
+                {
+                    "value": 6
+                },
+                {
+                    "value": 7
+                },
+                {
+                    "value": 8
+                }],
+            "correctAnswer": 7
+        },
+        {
+            "question": "What is 8*8?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 20
+                },
+                {
+                    "value": 30
+                },
+                {
+                    "value": 40
+                },
+                {
+                    "value": 50
+                },
+                {
+                    "value": 64
+                }],
+            "correctAnswer": 64
+        }
+    ]
+    },
+    {
+    "name":"GEOGRAPHY",
+    "score": 0,
+    "show": false,
+    "font": "green",
+    "color": "#b5e7a0",
+    "questions":[
+        {
+            "question": "What is the largest lake in the world?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": "Caspian Sea"
+                },
+                {
+                    "value": "Lake Victoria"
+                },
+                {
+                    "value": "Lake Michigan"
+                },
+                {
+                    "value": "Lake Superior"
+                },
+                {
+                    "value": "Lake Tanganyika"
+                }],
+            "correctAnswer": "Caspian Sea"
+        },
+        {
+            "question": "How many countries does China share a border with?",
+            "selected": "",
+             "choices": [
+                { 
+                    "value": 20
+                },
+                {
+                    "value": 5
+                },
+                {
+                    "value": 23
+                },
+                {
+                    "value": 14
+                },
+                {
+                    "value": 7
+                }],
+            "correctAnswer": 14
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": "Mississippi River"
+                },
+                {
+                    "value": "Amazon River"
+                },
+                {
+                    "value": "Nile River"
+                },
+                {
+                    "value": "Yangtze River"
+                },
+                {
+                    "value": "Yellow River"
+                }],
+            "correctAnswer": "Nile River"
+        },
+        {
+            "question": "What is the smallest country?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": "Luxumberg"
+                },
+                {
+                    "value": "Monaco"
+                },
+                {
+                    "value": "Tuvalu"
+                },
+                {
+                    "value": "San Marino"
+                },
+                {
+                    "value": "Vatican City"
+                }],
+            "correctAnswer": "Vatican City"
+        },
+        {
+            "question": "How many feet above sea level is the top of Mount Everest",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 29029
+                },
+                {
+                    "value": 18356
+                },
+                {
+                    "value": 34980
+                },
+                {
+                    "value": 25832
+                },
+                {
+                    "value": 37092
+                }],
+            "correctAnswer": 29029
+        }
+    ]
+    },
+    {
+    "name":"HISTORY",
+    "score": 0,
+    "show": false,
+    "font": "blue",
+    "color": "lightblue",
+    "questions":[
+        {
+            "question": "How many years long is the Hundred Years' War?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 167
+                },
+                {
+                    "value": 100
+                },
+                {
+                    "value": 120
+                },
+                {
+                    "value": 116
+                },
+                {
+                    "value": 94
+                }],
+            "correctAnswer": 116
+        },
+        {
+            "question": "What year did the Ottoman Empire end?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": 1922
+                },
+                {
+                    "value": 1858
+                },
+                {
+                    "value": 1722
+                },
+                {
+                    "value": 1523
+                },
+                {
+                    "value": 1430
+                }],
+            "correctAnswer": 1922
+        },
+        {
+            "question": "In what US state was President Abraham Lincoln born?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": "Missouri"
+                },
+                {
+                    "value": "Illinois"
+                },
+                {
+                    "value": "Kentucky"
+                },
+                {
+                    "value": "Iowa"
+                },
+                {
+                    "value": "Indiana"
+                }],
+            "correctAnswer": "Kentucky"
+        },
+        {
+            "question": "Which country was not a part of the Allies in WWII?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": "India"
+                },
+                {
+                    "value": "Belgium"
+                },
+                {
+                    "value": "United States"
+                },
+                {
+                    "value": "France"
+                },
+                {
+                    "value": "New Zealand"
+                }],
+            "correctAnswer": "Belgium"
+        },
+        {
+            "question": "Which dictator ruled in Chile from 1973-1990?",
+            "selected": "",
+            "choices": [
+                { 
+                    "value": "Fransisco Franco"
+                },
+                {
+                    "value": "Augusto Pinochet"
+                },
+                {
+                    "value": "Porfirio Diaz"
+                },
+                {
+                    "value": "Anastasio Somoza Garcia"
+                },
+                {
+                    "value": "Antonio Guzman Blanco"
+                }],
+            "correctAnswer": "Augusto Pinochet"
+        }
+    ]
+    }
+]
